@@ -42,7 +42,7 @@ BillWiz is an inventory and billing management system designed to streamline pro
 3. **Run the Application**
 
    - Double-click on `BillWiz.exe` to launch the application.
-   - Log in using the default credentials (if provided) or create a new user.
+   - Log in using the default credentials Password = Temp.
 
 ## Usage Guide
 
