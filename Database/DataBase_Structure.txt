@@ -115,3 +115,4 @@ CREATE TABLE [dbo].[Retailers_Invoice_items_DB] (
 );
 
 insert into Owner_DB values('Aditya Software Developers','Aditya Pawar','8999999999','demo@gmail.com','Pune','Pune','27ABCDE1234F1Z5');
+insert into bk_details values('SBI',12345678901234,'SBIN0000000','Aditya','demo@ybl');
