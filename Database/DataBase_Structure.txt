@@ -1,0 +1,117 @@
+-- Create Database
+CREATE DATABASE [BillWiz];
+
+-- Create Sequences
+CREATE SEQUENCE [dbo].[invoice_seq] AS [bigint] START WITH 1 INCREMENT BY 1;
+CREATE SEQUENCE [dbo].[Items_seq] AS [bigint] START WITH 1 INCREMENT BY 1;
+CREATE SEQUENCE [dbo].[retailer_ids] AS [bigint] START WITH 1 INCREMENT BY 1;
+
+-- Create Tables
+CREATE TABLE [dbo].[All_Sale_Invoices] (
+    [Invoice_num] [bigint] NULL,
+    [Cust_name] [nvarchar](max) NULL,
+    [Bill_amt] [float] NULL,
+    [gst] [float] NULL,
+    [amt_given] [float] NULL,
+    [date_pur] [date] NULL,
+    [Type] [nvarchar](max) NULL
+);
+
+CREATE TABLE [dbo].[bk_details] (
+    [BK_NAME] [nvarchar](max) NULL,
+    [Account_num] [bigint] NULL,
+    [IFSC_Code] [nvarchar](max) NULL,
+    [Account_holder] [nvarchar](max) NULL,
+    [upi_id] [nvarchar](max) NULL
+);
+
+CREATE TABLE [dbo].[Cust_Invoices_items_DB] (
+    [Invoice_num] [bigint] NULL,
+    [Cust_name] [nvarchar](max) NULL,
+    [item] [nvarchar](max) NULL,
+    [QTY] [int] NULL,
+    [amt] [float] NULL,
+    [gst] [float] NULL,
+    [date_in] [date] NULL,
+    [total] [float] NULL,
+    [given] [float] NULL,
+    [City] [nvarchar](max) NULL,
+    [phone] [bigint] NULL,
+    [mailid] [nvarchar](max) NULL,
+    [hsn_sac] [int] NULL,
+    [Discounted_amt] [float] NULL,
+    [uom] [nvarchar](max) NULL,
+    [MRP] [float] NULL,
+    [barcode] [bigint] NULL,
+    [rate] [float] NULL
+);
+
+CREATE TABLE [dbo].[Import_data] (
+    [Barcode] [bigint] NULL,
+    [date_of_import] [date] NULL,
+    [category] [nvarchar](max) NULL,
+    [Item] [nvarchar](max) NULL,
+    [price] [float] NULL,
+    [qty] [float] NULL,
+    [total_amt] [float] NULL
+);
+
+CREATE TABLE [dbo].[Items_DB] (
+    [Product_Name] [nvarchar](max) NULL,
+    [HSN_SAC] [int] NULL,
+    [QTY] [int] NULL,
+    [UOM] [nvarchar](max) NULL,
+    [Item_Rate] [float] NULL,
+    [Barcode_Num] [bigint] NULL,
+    [MRP] [float] NULL,
+    [cgst] [float] NULL,
+    [sgst] [float] NULL,
+    [igst] [float] NULL,
+    [Ret_rate] [float] NULL
+);
+
+CREATE TABLE [dbo].[Owner_DB] (
+    [Shop_Name] [nvarchar](max) NULL,
+    [ownernm] [nvarchar](max) NULL,
+    [Phnoshp] [bigint] NULL,
+    [emailshp] [nvarchar](max) NULL,
+    [addr1] [nvarchar](max) NULL,
+    [addr2] [nvarchar](max) NULL,
+    [gstn] [nvarchar](max) NULL
+);
+
+CREATE TABLE [dbo].[Retailers_Database] (
+    [Cust_id] [bigint] NULL,
+    [Shop_Name] [nvarchar](max) NULL,
+    [Owner_Name] [nvarchar](max) NULL,
+    [Ph_no] [bigint] NULL,
+    [mail_id] [nvarchar](max) NULL,
+    [City] [nvarchar](max) NULL,
+    [total_item_pur] [float] NULL,
+    [total_item_purchased_amt] [float] NULL,
+    [inward_amt] [float] NULL,
+    [outward] [float] NULL,
+    [date_reg] [date] NULL,
+    [gstn] [nvarchar](max) NULL
+);
+
+CREATE TABLE [dbo].[Retailers_Invoice_items_DB] (
+    [Invoice_id] [bigint] NULL,
+    [Shop_name] [nvarchar](max) NULL,
+    [item] [nvarchar](max) NULL,
+    [QTY] [int] NULL,
+    [AMT] [float] NULL,
+    [GST] [float] NULL,
+    [date_in] [date] NULL,
+    [total_amt] [float] NULL,
+    [given_amt] [float] NULL,
+    [hsn_sac] [int] NULL,
+    [Discounted_amt] [float] NULL,
+    [uom] [nvarchar](max) NULL,
+    [MRP] [float] NULL,
+    [Barcode] [bigint] NULL,
+    [rate] [float] NULL,
+    [Cust_id] [bigint] NULL
+);
+
+insert into Owner_DB values('Aditya Software Developers','Aditya Pawar','8999999999','demo@gmail.com','Pune','Pune','27ABCDE1234F1Z5');

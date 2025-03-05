@@ -1,0 +1,334 @@
+E:\BillWiz\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.exe
+E:\BillWiz\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.dll.config
+E:\BillWiz\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.deps.json
+E:\BillWiz\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.runtimeconfig.json
+E:\BillWiz\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.dll
+E:\BillWiz\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.pdb
+E:\BillWiz\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\System.Data.SqlClient.dll
+E:\BillWiz\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\sni.dll
+E:\BillWiz\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\sni.dll
+E:\BillWiz\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\sni.dll
+E:\BillWiz\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\BillWiz\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.AssemblyReference.cache
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Properties.Resources.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Add_Retailer.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Dashboard.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Edit_Retailers_data.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Import.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Inventory.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Invoices.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.LOC_box.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Login_frm.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Reporting.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.S2B.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.S2C.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Sale_Overview.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.View_Cust.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.View_Retailers.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.GenerateResource.cache
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.GeneratedMSBuildEditorConfig.editorconfig
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.AssemblyInfoInputs.cache
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.AssemblyInfo.cs
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.CoreCompileInputs.cache
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.CopyComplete
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.dll
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\refint\BillWiz.dll
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.pdb
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.genruntimeconfig.cache
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\ref\BillWiz.dll
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Quotation.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Return.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Return_Overview.resources
+E:\BillWiz\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.BillWiz_Info.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.exe
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.dll.config
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.deps.json
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.runtimeconfig.json
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.pdb
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\System.Data.SqlClient.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\sni.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\sni.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\sni.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.AssemblyReference.cache
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Properties.Resources.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Add_Retailer.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.BillWiz_Info.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Dashboard.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Edit_Retailers_data.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Import.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Inventory.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Invoices.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.LOC_box.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Login_frm.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Quotation.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Reporting.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Return.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Return_Overview.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.S2B.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.S2C.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Sale_Overview.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.View_Cust.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.View_Retailers.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.GenerateResource.cache
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.AssemblyInfoInputs.cache
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.AssemblyInfo.cs
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.CoreCompileInputs.cache
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.CopyComplete
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\refint\BillWiz.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.pdb
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.genruntimeconfig.cache
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\ref\BillWiz.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Itemadd.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\Xamarin.Essentials.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\zxing.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\ZXingNetMobile.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Bk_Detailes.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.exe
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.dll.config
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.deps.json
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.runtimeconfig.json
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.pdb
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\System.Data.SqlClient.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\Xamarin.Essentials.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\zxing.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\ZXingNetMobile.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\sni.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\sni.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\sni.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.AssemblyReference.cache
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Properties.Resources.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Add_Retailer.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.BillWiz_Info.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Bk_Detailes.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Dashboard.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Edit_Retailers_data.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Import.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Inventory.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Invoices.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Itemadd.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.LOC_box.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Login_frm.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Quotation.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Reporting.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Return.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Return_Overview.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.S2B.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.S2C.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Sale_Overview.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.View_Cust.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.View_Retailers.resources
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.GenerateResource.cache
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.AssemblyInfoInputs.cache
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.AssemblyInfo.cs
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.CoreCompileInputs.cache
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.CopyComplete
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\refint\BillWiz.dll
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.pdb
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.genruntimeconfig.cache
+E:\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\ref\BillWiz.dll
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.AssemblyReference.cache
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Add_Retailer.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.BillWiz_Info.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Bk_Detailes.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Dashboard.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Edit_Retailers_data.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Import.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Inventory.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Invoices.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Itemadd.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.LOC_box.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Login_frm.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Quotation.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Reporting.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Return.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Return_Overview.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.S2B.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.S2C.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Sale_Overview.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.View_Cust.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.View_Retailers.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.GenerateResource.cache
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.dll
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\refint\BillWiz.dll
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.pdb
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.exe
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.dll.config
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.deps.json
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.runtimeconfig.json
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.dll
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.pdb
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\System.Data.SqlClient.dll
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\Xamarin.Essentials.dll
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\zxing.dll
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\ZXingNetMobile.dll
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\sni.dll
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\sni.dll
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\sni.dll
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Properties.Resources.resources
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.AssemblyInfoInputs.cache
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.AssemblyInfo.cs
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.CoreCompileInputs.cache
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.CopyComplete
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.genruntimeconfig.cache
+E:\Users\Aditya_Pawar\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\ref\BillWiz.dll
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.exe
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.dll.config
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.deps.json
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.runtimeconfig.json
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.dll
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.pdb
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\System.Data.SqlClient.dll
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\Xamarin.Essentials.dll
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\zxing.dll
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\ZXingNetMobile.dll
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.AssemblyReference.cache
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Properties.Resources.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Add_Retailer.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.BillWiz_Info.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Bk_Detailes.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Dashboard.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Edit_Retailers_data.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Import.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Inventory.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Invoices.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Itemadd.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.LOC_box.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Login_frm.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Quotation.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Reporting.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Return.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Return_Overview.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.S2B.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.S2C.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Sale_Overview.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.View_Cust.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.View_Retailers.resources
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.GenerateResource.cache
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.AssemblyInfoInputs.cache
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.AssemblyInfo.cs
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.CoreCompileInputs.cache
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.Up2Date
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.dll
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\refint\BillWiz.dll
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.pdb
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.genruntimeconfig.cache
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\ref\BillWiz.dll
+D:\Users\Aditya\Downloads\Diploma Data\CPP related\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.itemdelete.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.exe
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.dll.config
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.deps.json
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.runtimeconfig.json
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.pdb
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\System.Data.SqlClient.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\Xamarin.Essentials.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\zxing.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\ZXingNetMobile.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.AssemblyReference.cache
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Properties.Resources.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Add_Retailer.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.BillWiz_Info.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Bk_Detailes.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Dashboard.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Edit_Retailers_data.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Import.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Inventory.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Invoices.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Itemadd.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.itemdelete.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.LOC_box.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Login_frm.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Quotation.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Reporting.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Return.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Return_Overview.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.S2B.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.S2C.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Sale_Overview.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.View_Cust.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.View_Retailers.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.GenerateResource.cache
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.AssemblyInfoInputs.cache
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.AssemblyInfo.cs
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.CoreCompileInputs.cache
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.Up2Date
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\refint\BillWiz.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.pdb
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.genruntimeconfig.cache
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz for Vikrant E Islampur - 1920 x 1080\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\ref\BillWiz.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.exe
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.dll.config
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.deps.json
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.runtimeconfig.json
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\BillWiz.pdb
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\System.Data.SqlClient.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\Xamarin.Essentials.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\zxing.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\ZXingNetMobile.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\bin\Debug\net6.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.AssemblyReference.cache
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Properties.Resources.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Add_Retailer.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.BillWiz_Info.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Bk_Detailes.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Dashboard.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Edit_Retailers_data.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Import.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Inventory.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Invoices.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Itemadd.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.itemdelete.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.LOC_box.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Login_frm.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Quotation.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Reporting.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.Return.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Return_Overview.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.S2B.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.S2C.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.Sale_Overview.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.View_Cust.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.UI.View_Retailers.resources
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.GenerateResource.cache
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.AssemblyInfoInputs.cache
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.AssemblyInfo.cs
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.CoreCompileInputs.cache
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.csproj.Up2Date
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\refint\BillWiz.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.pdb
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\BillWiz.genruntimeconfig.cache
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Project BillWiz\BillWiz Orginal Module\BillWiz\BillWiz\obj\Debug\net6.0-windows7.0\ref\BillWiz.dll

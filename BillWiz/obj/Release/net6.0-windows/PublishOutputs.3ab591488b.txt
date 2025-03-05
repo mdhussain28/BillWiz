@@ -1,0 +1,12 @@
+E:\New\BillWiz.exe
+E:\New\BillWiz.dll
+E:\New\BillWiz.deps.json
+E:\New\BillWiz.runtimeconfig.json
+E:\New\BillWiz.dll.config
+E:\New\BillWiz.pdb
+E:\New\System.Data.SqlClient.dll
+E:\New\runtimes\win-arm64\native\sni.dll
+E:\New\runtimes\win-x64\native\sni.dll
+E:\New\runtimes\win-x86\native\sni.dll
+E:\New\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\New\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

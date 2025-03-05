@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\BillWiz\BillWiz\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Modules\Add_Retailer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\BillWiz_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Bk_Detailes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Invoices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Itemadd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\itemdelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Login_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Reporting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Return.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Edit_Retailers_data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Quotation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Return_OverView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\S2B.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Sale_Overview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\Import.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\LOC_box.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\View_Cust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modules\View_Retailers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

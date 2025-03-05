@@ -1,0 +1,15 @@
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\BillWiz.exe
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\BillWiz.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\BillWiz.deps.json
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\BillWiz.runtimeconfig.json
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\BillWiz.dll.config
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\BillWiz.pdb
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\System.Data.SqlClient.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\Xamarin.Essentials.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\zxing.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\ZXingNetMobile.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\runtimes\win-arm64\native\sni.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\runtimes\win-x64\native\sni.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\runtimes\win-x86\native\sni.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\Billwiz_Setup\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
