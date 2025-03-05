@@ -25,7 +25,7 @@ BillWiz is an inventory and billing management system designed to streamline pro
 
 1. **Download the Executable**
 
-   - Navigate to the `setup` folder and download the `BillWiz.exe` file.
+   - Download and install `BillWiz_Setup.msi` from [GitHub Releases](https://github.com/adityavaibhavpawar/BillWiz/releases).
 
 2. **Database Restoration**
 
