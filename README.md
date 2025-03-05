@@ -56,10 +56,6 @@ BillWiz is an inventory and billing management system designed to streamline pro
 - If the application does not open, ensure all dependencies are installed.
 - If the database does not connect, verify the SQL Server instance and authentication details.
 
-## License
-
-This project is licensed under [Your License Here].
-
 ## Contact
 
 For any issues or support, please contact: **[adityavaibhavpawar@gmail.com](mailto\:adityavaibhavpawar@gmail.com)**
