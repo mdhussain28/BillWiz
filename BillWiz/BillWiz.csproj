@@ -33,7 +33,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Update="Modules\S2C.cs">
+    <Compile Update="Assets\S2C.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

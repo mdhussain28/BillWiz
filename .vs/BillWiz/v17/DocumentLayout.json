@@ -1,85 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Users\\Aditya_Pawar\\Programming\\Projects\\BillWiz\\BillWiz\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0FBFD4EC-60AA-4C99-90E9-FFBABBEBC31C}|BillWiz\\BillWiz.csproj|d:\\users\\aditya_pawar\\programming\\projects\\billwiz\\billwiz\\billwiz\\modules\\s2c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0FBFD4EC-60AA-4C99-90E9-FFBABBEBC31C}|BillWiz\\BillWiz.csproj|solutionrelative:billwiz\\modules\\s2c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FBFD4EC-60AA-4C99-90E9-FFBABBEBC31C}|BillWiz\\BillWiz.csproj|d:\\users\\aditya_pawar\\programming\\projects\\billwiz\\billwiz\\billwiz\\modules\\s2c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FBFD4EC-60AA-4C99-90E9-FFBABBEBC31C}|BillWiz\\BillWiz.csproj|solutionrelative:billwiz\\modules\\s2c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FBFD4EC-60AA-4C99-90E9-FFBABBEBC31C}|BillWiz\\BillWiz.csproj|D:\\Users\\Aditya_Pawar\\Programming\\Projects\\BillWiz\\BillWiz\\billwiz\\modules\\itemadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0FBFD4EC-60AA-4C99-90E9-FFBABBEBC31C}|BillWiz\\BillWiz.csproj|solutionrelative:billwiz\\modules\\itemadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FBFD4EC-60AA-4C99-90E9-FFBABBEBC31C}|BillWiz\\BillWiz.csproj|d:\\users\\aditya_pawar\\programming\\projects\\billwiz\\billwiz\\billwiz\\modules\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FBFD4EC-60AA-4C99-90E9-FFBABBEBC31C}|BillWiz\\BillWiz.csproj|solutionrelative:billwiz\\modules\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Itemadd.cs [Design]",
-              "DocumentMoniker": "D:\\Users\\Aditya_Pawar\\Programming\\Projects\\BillWiz\\BillWiz\\BillWiz\\Modules\\Itemadd.cs",
-              "RelativeDocumentMoniker": "BillWiz\\Modules\\Itemadd.cs",
-              "ToolTip": "D:\\Users\\Aditya_Pawar\\Programming\\Projects\\BillWiz\\Project BillWiz\\BillWiz Orginal Module\\BillWiz\\BillWiz\\Modules\\Itemadd.cs [Design]",
-              "RelativeToolTip": "..\\Project BillWiz\\BillWiz Orginal Module\\BillWiz\\BillWiz\\Modules\\Itemadd.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T14:08:49.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "S2C.cs",
-              "DocumentMoniker": "D:\\Users\\Aditya_Pawar\\Programming\\Projects\\BillWiz\\BillWiz\\BillWiz\\Modules\\S2C.cs",
-              "RelativeDocumentMoniker": "BillWiz\\Modules\\S2C.cs",
-              "ToolTip": "D:\\Users\\Aditya_Pawar\\Programming\\Projects\\BillWiz\\BillWiz\\BillWiz\\Modules\\S2C.cs",
-              "RelativeToolTip": "BillWiz\\Modules\\S2C.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMBAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T14:06:13.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "S2C.cs [Design]",
-              "DocumentMoniker": "D:\\Users\\Aditya_Pawar\\Programming\\Projects\\BillWiz\\BillWiz\\BillWiz\\Modules\\S2C.cs",
-              "RelativeDocumentMoniker": "BillWiz\\Modules\\S2C.cs",
-              "ToolTip": "D:\\Users\\Aditya_Pawar\\Programming\\Projects\\BillWiz\\BillWiz\\BillWiz\\Modules\\S2C.cs [Design]",
-              "RelativeToolTip": "BillWiz\\Modules\\S2C.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T14:06:09.25Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Reporting.cs",
-              "DocumentMoniker": "D:\\Users\\Aditya_Pawar\\Programming\\Projects\\BillWiz\\BillWiz\\BillWiz\\Modules\\Reporting.cs",
-              "RelativeDocumentMoniker": "BillWiz\\Modules\\Reporting.cs",
-              "ToolTip": "D:\\Users\\Aditya_Pawar\\Programming\\Projects\\BillWiz\\BillWiz\\BillWiz\\Modules\\Reporting.cs",
-              "RelativeToolTip": "BillWiz\\Modules\\Reporting.cs",
-              "ViewState": "AgIAADQDAAAAAAAAAAD4v0oDAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T14:00:09.735Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

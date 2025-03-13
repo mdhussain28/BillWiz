@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BillWiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65092e14942407c80309dbf05fca62cd7bfbfc5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BillWiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BillWiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

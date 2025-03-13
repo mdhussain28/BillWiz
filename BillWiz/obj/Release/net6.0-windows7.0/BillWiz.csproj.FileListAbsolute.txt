@@ -89,3 +89,4 @@ D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\BillWiz\BillWiz\obj\Release\n
 D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\BillWiz\BillWiz\obj\Release\net6.0-windows7.0\BillWiz.pdb
 D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\BillWiz\BillWiz\obj\Release\net6.0-windows7.0\BillWiz.genruntimeconfig.cache
 D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\BillWiz\BillWiz\obj\Release\net6.0-windows7.0\ref\BillWiz.dll
+D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\BillWiz\BillWiz\obj\Release\net6.0-windows7.0\BillWiz.sourcelink.json

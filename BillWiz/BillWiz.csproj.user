@@ -4,64 +4,64 @@
     <_LastSelectedProfileId>D:\Users\Aditya_Pawar\Programming\Projects\BillWiz\BillWiz\BillWiz\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Update="Modules\Add_Retailer.cs">
+    <Compile Update="Assets\Add_Retailer.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\BillWiz_Info.cs">
+    <Compile Update="Assets\BillWiz_Info.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\Bk_Detailes.cs">
+    <Compile Update="Assets\Bk_Detailes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\Invoices.cs">
+    <Compile Update="Assets\Invoices.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\Itemadd.cs">
+    <Compile Update="Assets\Itemadd.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\itemdelete.cs">
+    <Compile Update="Assets\itemdelete.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\Login_frm.cs">
+    <Compile Update="Assets\Login_frm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\Reporting.cs">
+    <Compile Update="Assets\Reporting.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\Return.cs">
+    <Compile Update="Assets\Return.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\Dashboard.cs">
+    <Compile Update="Assets\Dashboard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\Edit_Retailers_data.cs">
+    <Compile Update="Assets\Edit_Retailers_data.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\Inventory.cs">
+    <Compile Update="Assets\Inventory.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\Quotation.cs">
+    <Compile Update="Assets\Quotation.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\Return_OverView.cs">
+    <Compile Update="Assets\Return_OverView.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\S2B.cs">
+    <Compile Update="Assets\S2B.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\Sale_Overview.cs">
+    <Compile Update="Assets\Sale_Overview.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\Import.cs">
+    <Compile Update="Assets\Import.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\LOC_box.cs">
+    <Compile Update="Assets\LOC_box.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\View_Cust.cs">
+    <Compile Update="Assets\View_Cust.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Modules\View_Retailers.cs">
+    <Compile Update="Assets\View_Retailers.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
